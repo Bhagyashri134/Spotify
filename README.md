@@ -25,11 +25,11 @@ To analyze listening behavior over time — identifying patterns in track plays,
 - Power Query for data shaping & timestamp conversion
 
 ## 📸 Sample Visuals
-![Top Artists]![image](https://github.com/user-attachments/assets/81b13225-e8f8-484b-81d7-c12a6344e3ed)
+![image](https://github.com/user-attachments/assets/81b13225-e8f8-484b-81d7-c12a6344e3ed)
 
-![Insights for Spotify team]![image](https://github.com/user-attachments/assets/8ef513f5-2442-4714-b0bf-19539a59e182)
+![image](https://github.com/user-attachments/assets/8ef513f5-2442-4714-b0bf-19539a59e182)
 
-![Listeners Behaviour]![image](https://github.com/user-attachments/assets/a896e8af-51f0-4310-a218-fe127ac989e8)
+![image](https://github.com/user-attachments/assets/a896e8af-51f0-4310-a218-fe127ac989e8)
 
 
 
